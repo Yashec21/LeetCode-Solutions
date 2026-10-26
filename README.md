@@ -6,10 +6,12 @@ My Java solutions to LeetCode problems, covering data structures, algorithms, an
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Yashec21/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/Yashec21/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Yashec21/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/Yashec21/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
@@ -19,4 +21,12 @@ My Java solutions to LeetCode problems, covering data structures, algorithms, an
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Yashec21/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+## Hash Table
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Yashec21/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Yashec21/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
