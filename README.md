@@ -7,12 +7,14 @@ My Java solutions to LeetCode problems, covering data structures, algorithms, an
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Yashec21/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/Yashec21/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/Yashec21/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Yashec21/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Yashec21/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/Yashec21/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/Yashec21/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Yashec21/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Stack
@@ -31,4 +33,16 @@ My Java solutions to LeetCode problems, covering data structures, algorithms, an
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Yashec21/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Yashec21/LeetCode-Solutions/tree/master/0148-sort-list) |
+## Sorting
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Yashec21/LeetCode-Solutions/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Yashec21/LeetCode-Solutions/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
