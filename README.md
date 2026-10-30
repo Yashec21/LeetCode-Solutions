@@ -10,6 +10,7 @@ My Java solutions to LeetCode problems, covering data structures, algorithms, an
 | [0148-sort-list](https://github.com/Yashec21/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/Yashec21/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Yashec21/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Yashec21/LeetCode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -17,6 +18,7 @@ My Java solutions to LeetCode problems, covering data structures, algorithms, an
 | [0148-sort-list](https://github.com/Yashec21/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/Yashec21/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Yashec21/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Yashec21/LeetCode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Stack
 |  |
 | ------- |
