@@ -47,4 +47,12 @@ My Java solutions to LeetCode problems, covering data structures, algorithms, an
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Yashec21/LeetCode-Solutions/tree/master/0148-sort-list) |
+## Array
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/Yashec21/LeetCode-Solutions/tree/master/0066-plus-one) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/Yashec21/LeetCode-Solutions/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
