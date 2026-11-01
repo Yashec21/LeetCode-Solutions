@@ -6,6 +6,7 @@ My Java solutions to LeetCode problems, covering data structures, algorithms, an
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Yashec21/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Yashec21/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Yashec21/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/Yashec21/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
@@ -14,6 +15,7 @@ My Java solutions to LeetCode problems, covering data structures, algorithms, an
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Yashec21/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Yashec21/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Yashec21/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/Yashec21/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
