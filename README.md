@@ -52,9 +52,18 @@ My Java solutions to LeetCode problems, covering data structures, algorithms, an
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Yashec21/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0066-plus-one](https://github.com/Yashec21/LeetCode-Solutions/tree/master/0066-plus-one) |
 ## Math
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Yashec21/LeetCode-Solutions/tree/master/0066-plus-one) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Yashec21/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Yashec21/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
