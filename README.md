@@ -33,6 +33,7 @@ My Java solutions to LeetCode problems, covering data structures, algorithms, an
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Yashec21/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0217-contains-duplicate](https://github.com/Yashec21/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -45,6 +46,7 @@ My Java solutions to LeetCode problems, covering data structures, algorithms, an
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Yashec21/LeetCode-Solutions/tree/master/0148-sort-list) |
+| [0217-contains-duplicate](https://github.com/Yashec21/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 ## Merge Sort
 |  |
 | ------- |
@@ -55,6 +57,7 @@ My Java solutions to LeetCode problems, covering data structures, algorithms, an
 | [0014-longest-common-prefix](https://github.com/Yashec21/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0066-plus-one](https://github.com/Yashec21/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yashec21/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0217-contains-duplicate](https://github.com/Yashec21/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 ## Math
 |  |
 | ------- |
