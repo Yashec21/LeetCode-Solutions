@@ -71,6 +71,7 @@ My Java solutions to LeetCode problems, covering data structures, algorithms, an
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Yashec21/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+| [1446-consecutive-characters](https://github.com/Yashec21/LeetCode-Solutions/tree/master/1446-consecutive-characters) |
 ## Trie
 |  |
 | ------- |
