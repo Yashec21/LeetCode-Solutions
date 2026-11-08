@@ -60,6 +60,7 @@ My Java solutions to LeetCode problems, covering data structures, algorithms, an
 | [0066-plus-one](https://github.com/Yashec21/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yashec21/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Yashec21/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [0485-max-consecutive-ones](https://github.com/Yashec21/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0977-squares-of-a-sorted-array](https://github.com/Yashec21/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Yashec21/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Math
