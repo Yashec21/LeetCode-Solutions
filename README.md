@@ -68,6 +68,7 @@ My Java solutions to LeetCode problems, covering data structures, algorithms, an
 | ------- |
 | [0066-plus-one](https://github.com/Yashec21/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Yashec21/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [2169-count-operations-to-obtain-zero](https://github.com/Yashec21/LeetCode-Solutions/tree/master/2169-count-operations-to-obtain-zero) |
 ## String
 |  |
 | ------- |
@@ -81,4 +82,8 @@ My Java solutions to LeetCode problems, covering data structures, algorithms, an
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yashec21/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Simulation
+|  |
+| ------- |
+| [2169-count-operations-to-obtain-zero](https://github.com/Yashec21/LeetCode-Solutions/tree/master/2169-count-operations-to-obtain-zero) |
 <!---LeetCode Topics End-->
